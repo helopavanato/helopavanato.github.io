@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Oceanography, Federal University of Rio Grande, 2010
+* M.S. in Biological Oceanography, Federal University of Rio Grande, 2013
+* Ph.D in Statistics, University of Otago, 2021 (expected)
 
 Work experience
 ======
